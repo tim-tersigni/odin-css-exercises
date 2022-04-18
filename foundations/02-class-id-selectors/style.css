@@ -1,0 +1,18 @@
+.a_class, .cooler {
+    background-color: rgb(248, 145, 145);
+    font-family: 'Veranda', 'DejaVu Sans', sans-serif;
+}
+
+#one_id {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler, #another_id {
+    font-size: 24px;
+}
+
+#another_id {
+    background-color: lightgreen;
+    font-weight: bold;
+}
